@@ -16,10 +16,6 @@ I am passionate about technology and building digital solutions, enjoying the pr
 - 🎮 Outside tech: I enjoy playing video games, listening to music, and reading  
 - 📫 Reach me at: randyruiz937@gmail.com  
 
-<br><br><br><br>
-
----
-
 <h3>
 Skills
 <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="40px" align="middle">
