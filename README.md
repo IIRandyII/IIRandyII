@@ -12,7 +12,7 @@ I am passionate about technology and building digital solutions, enjoying the pr
 
 - ⚙️ Experience developing web applications and digital solutions  
 - 🔍 Always looking to optimize and improve my existing projects  
-- 🌱 Currently deepening my knowledge in JavaScript and strengthening my skills in SQL  
+- 🌱 Currently deepening my knowledge in JavaScript and learning Python.
 - 🎮 Outside tech: I enjoy playing video games, listening to music, and reading  
 - 📫 Reach me at: randyruiz937@gmail.com  
 
